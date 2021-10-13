@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9237ddad43742c447bcd5912ddc031e8, type: 3}
+  m_Name: ControlPanelSettings
+  m_EditorClassIdentifier: 
+  _minimalRootHeight: 48.2
+  _maximalRootHeight: 79.95
+  horizontalSpeed: 5
+  verticalSpeed: 10
+  handBounds:
+    xBounds: {x: -12.4, y: 21.4}
+    zBounds: {x: 42.58, y: 77.7}
